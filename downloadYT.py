@@ -1,15 +1,3 @@
-# Instalar venv
-# 	sudo apt install python3-venv
-# Crear entorno virtual
-# 	python3 -m venv myenv
-# Activar
-# 	source myenv/bin/activate
-# Desactivar/salir
-# 	deactivate
-	
-# Librerias necesarias
-# pip install yt-dlp
-
 import os
 from yt_dlp import YoutubeDL
 
